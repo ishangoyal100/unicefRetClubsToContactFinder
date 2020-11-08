@@ -13,7 +13,6 @@ Main Street High School
 Saint High School
 Xavier College
 
-
 HOW TO USE THIS PROGRAM: (https://github.com/ishangoyal100/unicefRetClubsToContactFinder)
 
 Click on the green Code Button and Click Download ZIP. Open the folder when done downloading.
