@@ -3,7 +3,7 @@
 Welcome to the UNICEF Clubs NC Retention Prject Clubs to contact calculator!
 
 This finder takes 2 sets of data... one for the list of previously approved clubs in the past year (ie clubs we would like to retain) and a separate list of clubs 
-that are already approved for this year. 
+that are already approved for this year. The program then calculates and shares a list of clubs you still need to contact to retain.
 
 Each of these should be line break separated. It also helps to have alphabetically sorted the lists from A-Z in Sheets (Highlight the desired column and Sort the *column* alphabetically). Please do not put any other text on the file.
 
